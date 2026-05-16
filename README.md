@@ -6,7 +6,7 @@ The material is intentionally practical: most topics are represented as runnable
 
 ## What This Repository Covers
 
-- MapReduce fundamentals using pure Python
+- MapReduce fundamentals using pure Python.
 - Generalized and parallel MapReduce patterns
 - Hadoop Streaming-style mapper and reducer scripts
 - Order/category counting examples with CSV input
