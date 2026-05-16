@@ -1,0 +1,101 @@
+order_id,customer_city,product_category,payment_method,order_amount
+ORD001,Kolkata,Home Appliances,UPI,48529.11
+ORD002,Ahmedabad,Home Appliances,UPI,21141.27
+ORD003,Hyderabad,Sports,Cash on Delivery,40856.35
+ORD004,Mumbai,Books,Net Banking,45936.83
+ORD005,Jaipur,Books,UPI,4436.25
+ORD006,Mumbai,Home Appliances,Net Banking,33134.35
+ORD007,Hyderabad,Clothing,Credit Card,5791.72
+ORD008,Mumbai,Books,Cash on Delivery,4985.36
+ORD009,Mumbai,Electronics,Cash on Delivery,40262.32
+ORD010,Kolkata,Electronics,Cash on Delivery,13684.46
+ORD011,Hyderabad,Sports,Debit Card,27888.77
+ORD012,Hyderabad,Sports,Cash on Delivery,38968.91
+ORD013,Delhi,Home Appliances,Cash on Delivery,1591.45
+ORD014,Pune,Electronics,Cash on Delivery,4702.29
+ORD015,Mumbai,Books,Credit Card,20127.03
+ORD016,Hyderabad,Sports,UPI,41119.16
+ORD017,Hyderabad,Electronics,Credit Card,14308.65
+ORD018,Chennai,Home Appliances,Cash on Delivery,20186.87
+ORD019,Kolkata,Groceries,UPI,14250.08
+ORD020,Mumbai,Sports,Credit Card,14410.06
+ORD021,Jaipur,Books,Credit Card,30760.63
+ORD022,Bangalore,Books,Debit Card,2125.23
+ORD023,Bangalore,Sports,Cash on Delivery,25663.71
+ORD024,Hyderabad,Clothing,Cash on Delivery,14520.62
+ORD025,Ahmedabad,Groceries,Cash on Delivery,4904.92
+ORD026,Delhi,Clothing,Debit Card,6452.41
+ORD027,Pune,Sports,Cash on Delivery,5397.9
+ORD028,Kochi,Electronics,Cash on Delivery,48290.35
+ORD029,Bangalore,Groceries,Net Banking,7901.26
+ORD030,Bangalore,Sports,Debit Card,44993.56
+ORD031,Mumbai,Home Appliances,Cash on Delivery,11588.83
+ORD032,Bangalore,Clothing,UPI,32474.74
+ORD033,Mumbai,Home Appliances,Net Banking,8326.57
+ORD034,Hyderabad,Clothing,UPI,22142.67
+ORD035,Hyderabad,Home Appliances,Cash on Delivery,23107.97
+ORD036,Ahmedabad,Clothing,Debit Card,34765.9
+ORD037,Delhi,Groceries,Cash on Delivery,23188.32
+ORD038,Hyderabad,Sports,Net Banking,47046.91
+ORD039,Chennai,Books,Debit Card,48695.07
+ORD040,Mumbai,Sports,Cash on Delivery,34996.57
+ORD041,Ahmedabad,Groceries,Net Banking,33495.61
+ORD042,Pune,Home Appliances,Cash on Delivery,19665.13
+ORD043,Pune,Home Appliances,Debit Card,36550.89
+ORD044,Pune,Books,Cash on Delivery,3484.09
+ORD045,Ahmedabad,Sports,UPI,11772.32
+ORD046,Pune,Sports,Debit Card,46268.83
+ORD047,Kochi,Sports,Credit Card,2473.11
+ORD048,Hyderabad,Home Appliances,Credit Card,14462.68
+ORD049,Pune,Electronics,Cash on Delivery,4881.83
+ORD050,Hyderabad,Clothing,UPI,26973.03
+ORD051,Pune,Clothing,Net Banking,8671.61
+ORD052,Mumbai,Sports,Cash on Delivery,4057.77
+ORD053,Kochi,Electronics,Net Banking,19802.48
+ORD054,Kolkata,Groceries,Cash on Delivery,9386.88
+ORD055,Pune,Electronics,Debit Card,20944.51
+ORD056,Kochi,Clothing,Cash on Delivery,20126.87
+ORD057,Ahmedabad,Books,Debit Card,38987.3
+ORD058,Pune,Home Appliances,Net Banking,20368.76
+ORD059,Delhi,Groceries,Debit Card,19054.35
+ORD060,Pune,Groceries,Net Banking,11111.38
+ORD061,Jaipur,Home Appliances,Credit Card,19804.98
+ORD062,Delhi,Sports,Debit Card,2202.65
+ORD063,Kolkata,Electronics,Credit Card,20078.9
+ORD064,Ahmedabad,Electronics,Cash on Delivery,535.43
+ORD065,Mumbai,Electronics,Net Banking,17732.61
+ORD066,Kochi,Books,Debit Card,18271.98
+ORD067,Delhi,Home Appliances,UPI,10728.13
+ORD068,Chennai,Home Appliances,Credit Card,25369.07
+ORD069,Bangalore,Home Appliances,Net Banking,26654.27
+ORD070,Ahmedabad,Books,Net Banking,4736.71
+ORD071,Delhi,Sports,Debit Card,24678.22
+ORD072,Jaipur,Electronics,Net Banking,11964.19
+ORD073,Delhi,Books,Cash on Delivery,49097.81
+ORD074,Pune,Books,Net Banking,21867.72
+ORD075,Ahmedabad,Home Appliances,Credit Card,8528.76
+ORD076,Delhi,Home Appliances,UPI,20539.82
+ORD077,Delhi,Books,Credit Card,38475.12
+ORD078,Hyderabad,Books,Credit Card,45821.51
+ORD079,Ahmedabad,Groceries,Debit Card,9247.69
+ORD080,Mumbai,Clothing,Credit Card,21676.6
+ORD081,Hyderabad,Electronics,Credit Card,39326.54
+ORD082,Ahmedabad,Books,Cash on Delivery,9319.96
+ORD083,Chennai,Home Appliances,UPI,17172.72
+ORD084,Mumbai,Clothing,UPI,39675.74
+ORD085,Hyderabad,Books,Cash on Delivery,27987.31
+ORD086,Bangalore,Groceries,UPI,34175.91
+ORD087,Kochi,Groceries,Debit Card,25515.8
+ORD088,Chennai,Clothing,UPI,3367.82
+ORD089,Hyderabad,Sports,Debit Card,9023.92
+ORD090,Pune,Clothing,Cash on Delivery,20393.5
+ORD091,Hyderabad,Sports,Debit Card,20581.08
+ORD092,Chennai,Electronics,Debit Card,33345.0
+ORD093,Ahmedabad,Groceries,Net Banking,41961.04
+ORD094,Jaipur,Electronics,UPI,43866.34
+ORD095,Kochi,Clothing,Net Banking,34141.79
+ORD096,Bangalore,Books,Cash on Delivery,9696.62
+ORD097,Chennai,Home Appliances,Net Banking,24915.37
+ORD098,Pune,Groceries,Cash on Delivery,36165.03
+ORD099,Hyderabad,Books,Credit Card,44700.67
+ORD100,Kolkata,Sports,Debit Card,18113.11

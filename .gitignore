@@ -1,0 +1,48 @@
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment and local config
+.env
+.env.*
+!.env.example
+
+# Spark and Hadoop runtime artifacts
+spark-warehouse/
+metastore_db/
+derby.log
+*.crc
+_temporary/
+checkpoint/
+checkpoints/
+
+# Generated Spark ML model output
+Spark/delivery_delay_pred/delivery_delay_model/
+
+# Logs and OS/editor files
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local Codex/agent metadata
+.agents/
+.codex/
